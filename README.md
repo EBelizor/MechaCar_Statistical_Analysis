@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview 
-The companies new prototype the "MechaCar" is currently suffering from production issues. It is my job to perform a statistical analysis in order solve this prodcution issue by looking at possible adjustments that can be made for production.
+AutosRUs is a car manufacturing company that is working on a new prototype, the "MechaCar". The MechaCar is currently suffering from production issues, it is my job to find potential solutions that may allow the MechaCar to reach its previously advertised performance standards. To find potential solutions to our fuel efficiency issues I will perform statistical analysis on some variables in order solve this prodcution issue, by looking at possible adjustments that can be made to other factors in production.
 
 ## Linear Regression To Predict MPG
 
